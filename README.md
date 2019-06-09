@@ -87,9 +87,10 @@
 * ~~當您的計算機做了什麼您料想不到的事，不要動！在您平靜下來之前什麼都別做。不要做您認為不安全的事。 ~~
 * ~~如果您認為自己可以的話，盡量試著自己「診斷」程序出錯的原因。即使做出了「診斷」，您仍然應該報告程序的「症狀」。 ~~
 
-## 后记&声明
-感谢阅读!  
-原文地址 <https://www.chiark.greenend.org.uk/~sgtatham/bugs-cn.html>  
-版权所有 Simon Tatham 1999  
+## 後記&聲明
+感謝閱讀
+原文地址 <https://www.chiark.greenend.org.uk/~sgtatham/bugs-tw.html>  
+原文地址2 <https://github.com/w568w/How_To_Report_Bug_Properly>  
+版權所有 Simon Tatham 1999
 遵循[OPL（OpenContent License）](https://www.opencontent.org)  
-本文由w568w修改和精简以符合我国(即中华人民共和国)阅读习惯，一切解释权归原作者所有。  
+本文由w568w修改和精簡
